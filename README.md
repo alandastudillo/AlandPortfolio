@@ -12,9 +12,8 @@ This main page contains all data science and related projects.
 * 
 * Built using python. 
 
-![](/images/data_show.png) 
-
-<img src="images/data_show.png" alt="drawing" width="200"/>
+// ![](/images/data_show.png) 
+<img src="images/data_show.png" alt="drawing" width="400"/>
 
 # [Project 2: Music Visualization](https://github.com/) 
 For this example project I built a music visualization. 
@@ -27,4 +26,5 @@ I was able to get chunk of samples from a spectrum estimator from the audio file
 * 
 * Built in Matlab
 
-![](/images/music_visual.png) 
+[//]: ![](/images/music_visual.png) 
+<img src="images/music_visual.png" alt="drawing" width="400"/>
