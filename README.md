@@ -14,6 +14,8 @@ This main page contains all data science and related projects.
 
 ![](/images/data_show.png) 
 
+<img src="images/data_show.png" alt="drawing" width="200"/>
+
 # [Project 2: Music Visualization](https://github.com/) 
 For this example project I built a music visualization. 
 
