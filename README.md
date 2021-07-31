@@ -12,7 +12,7 @@ This main page contains all data science and related projects.
 * 
 * Built using python. 
 
-// ![](/images/data_show.png) 
+[//]: ![](/images/data_show.png) 
 <img src="images/data_show.png" alt="drawing" width="400"/>
 
 # [Project 2: Music Visualization](https://github.com/) 
