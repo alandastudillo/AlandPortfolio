@@ -1,7 +1,6 @@
 # Aland_Portfolio
 New  porfolio for projects
 
-# Ken_Portfolio
 Example data science portfolio
 
 # [Project 1: Data shower](https://github.com/) 
