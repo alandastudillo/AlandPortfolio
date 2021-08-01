@@ -31,6 +31,7 @@ I was able to get chunk of samples from a spectrum estimator from the audio file
 [//]: ![](/images/music_visual.png) 
 <img src="images/music_visual.png" alt="drawing" width="400"/>
 
+# Additional Info
 This example porfolio was developed based on:
 * "How to Make A Data Science Portfolio Website with Github Pages"
 * https://www.youtube.com/watch?v=1aXk2RViq3c
