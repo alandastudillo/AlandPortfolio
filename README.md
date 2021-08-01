@@ -1,7 +1,9 @@
 # Aland's Portfolio
-My porfolio for contain and summarize all projects.
+This is my new porfolio. It contains the latest projects.
 
-This main page contains all data science and related projects.
+<img src="images/IMG-20190730-WA0020.jpg" alt="drawing" width="200"/>
+
+This main page contains all projects.
 
 # [Project 1: Fun Data Plot](https://github.com/) 
 * Tool to show data in different fun ways.
