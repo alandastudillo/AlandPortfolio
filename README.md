@@ -1,7 +1,7 @@
 # Aland's Portfolio
 This is my new porfolio. It contains the latest projects.
 
-<img src="images/IMG-20190730-WA0020.jpg" alt="drawing" width="200"/>
+<img src="images/WIN_20200526_09_47_36_Pro.jpg" alt="drawing" width="200"/>
 
 This main page contains all projects.
 
