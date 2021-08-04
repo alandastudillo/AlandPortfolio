@@ -40,7 +40,7 @@ This example shows how to use ICA on a video analysis to obtain pulse signal and
 
 * Built in Matlab
 
-<img src="images/music_visual.png" alt="drawing" width="400"/>
+<img src="images/movie_ica_pulse.png" alt="drawing" width="400"/>
 
 # Additional Info
 This example porfolio was developed based on:
