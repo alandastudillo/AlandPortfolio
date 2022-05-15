@@ -3,9 +3,9 @@ This is my new porfolio. It contains the latest projects.
 
 <img src="images/WIN_20200526_09_47_36_Pro.jpg" alt="drawing" width="200"/>
 
-This main page contains all projects.
+This main page contains the main projects.
 
-# [Project 1: Fun Data Plot](https://github.com/) 
+# [Project 1. Fun Data Plot](https://github.com/) 
 * Tool to show data in different fun ways.
 * Features:
   * Support matrices
@@ -17,7 +17,7 @@ This main page contains all projects.
 [//]: ![](/images/data_show.png) 
 <img src="images/data_show.png" alt="drawing" width="400"/>
 
-# [Project 2: Music Visualization](https://github.com/) 
+# [Project 2. Music Visualization](https://github.com/) 
 For this example project I built a music visualization. 
 
 I was able to get chunk of samples from a spectrum estimator from the audio file and then transform this in visualization according to a rate. 
@@ -31,7 +31,7 @@ I was able to get chunk of samples from a spectrum estimator from the audio file
 [//]: ![](/images/music_visual.png) 
 <img src="images/music_visual.png" alt="drawing" width="400"/>
 
-# [Project 3: Video Analysis to obtain pulse signal ](https://github.com/) 
+# [Project 3. Video Analysis to obtain heart pulse signal ](https://github.com/) 
 This example shows how to use ICA on a video analysis to obtain pulse signal and other measures. 
 
 * Features:
