@@ -42,6 +42,20 @@ This example shows how to use ICA on a video analysis to obtain pulse signal and
 
 <img src="images/movie_ica_pulse.png" alt="drawing" width="400"/>
 
+# [Project 4. Cryptocurrency mapping - Time-series modeling ](https://github.com/) 
+This work analyze and model cryptocurrencies time-series dynamics in order to understand potential interactions in time. 
+
+* Features:
+  * Support one or multiple cryptocurrencies
+  * Several options available in order to map values or ranges.
+
+* Built in Python - Tensorflow
+
+* Pending:
+  * Add sentiment time series.
+
+<img src="images/btc_time_series.png" alt="drawing" width="400"/>
+
 # Additional Info
 This example porfolio was developed based on:
 * "How to Make A Data Science Portfolio Website with Github Pages"
