@@ -56,6 +56,17 @@ This tool analyses and models cryptocurrencies time-series dynamics in order to 
 
 <img src="images/btc_time_series.png" alt="drawing" width="400"/>
 
+# [Project 5. Spike sorting GUI for in-vitro retina neural signals ](https://github.com/) 
+This GUI tool allows to perform a demo of the spike sorting algorithm (based on Principal Component Analysis, PCA) on in-vitro retina neural data. 
+
+* Features:
+  * Support neural data from different sources.
+  * Allows to select the number of potential neurons to seek.
+
+* Built in MATLAB
+
+<img src="images/ss_gui.png" alt="drawing" width="400"/>
+
 # Additional Info
 This porfolio was developed based on an example porfolio you can find here:
 * "How to Make A Data Science Portfolio Website with Github Pages" (Ken Jee)
