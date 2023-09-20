@@ -60,12 +60,12 @@ This tool analyses and models cryptocurrencies time-series dynamics in order to 
 This GUI tool allows to perform a demo of the spike sorting algorithm (based on Principal Component Analysis, PCA) on in-vitro retina neural data. 
 
 * Features:
-  * Support neural data from different sources.
-  * Allows to select the number of potential neurons to seek.
+  * Support neural data from different sources
+  * Allows to select the number of potential neurons to seek
 
 * Built in MATLAB
 
-<img src="images/ss_gui.png" alt="drawing" width="400"/>
+<img src="images/ss_gui.png" alt="drawing" width="600"/>
 
 # Additional Info
 This porfolio was developed based on an example porfolio you can find here:
